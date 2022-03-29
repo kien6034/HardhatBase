@@ -1,18 +1,15 @@
 {
-  "name": "vulture",
+  "name": "train1",
+  "author": {"name": "kien6034"},
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+   
   },
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
     "@openzeppelin/contracts": "^4.3.2",
-    "axios": "^0.23.0",
     "chai": "^4.3.4",
     "dotenv": "^10.0.0",
     "ethereum-waffle": "^3.4.0",
@@ -20,7 +17,6 @@
     "hardhat": "^2.6.6"
   },
   "devDependencies": {
-    "@nomiclabs/hardhat-etherscan": "^2.1.7",
-    "autoprefixer": "^10.3.7"
+    "@nomiclabs/hardhat-etherscan": "^2.1.7"
   }
 }
