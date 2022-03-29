@@ -1,4 +1,13 @@
 # INSTALLATION
 
-- npm install --save-dev hardhat
-- npx hardhat
+```
+# cài đặt các package  
+npm i 
+```
+
+# USEFUL COMMAND 
+```
+# Chạy test 
+npx hardhat test
+
+```
